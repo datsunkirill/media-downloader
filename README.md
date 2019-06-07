@@ -24,7 +24,7 @@ Change Log
 - Workaround for Chrome disallowing access to cross-domain CSS rules
 
 2.4.1:
-- Fixed an issue where invalid URLs would break the extension - https://github.com/datsunkirill/media-downloader/issues/23
+- Fixed an issue where invalid URLs would break the extension - https://github.com/datsunkirill/media-downloader/issues/
 - Updated Zepto.js to 1.2.0
 
 2.4:
